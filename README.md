@@ -17,6 +17,7 @@ If you'd like you can check out my complete reading list (including ratings) on
 * "The Drunkard's Walk: How Randomness Rules Our Lives" - Leonard Mlodinow
 * "The Effective Executive: The Definitive Guide to Getting the Right Things Done" - Peter F. Drucker
 * "Essentialism: The Disciplined Pursuit of Less" - Greg McKeown
+* "Finish: Give Yourself the Gift of Done" - Jon Acuff
 * "Getting Things Done: The Art of Stress- Productivity" - Allen, DavidFre
 * "How Not to Be Wrong: The Power of Mathematical Thinking" - Jordan Ellenberg
 * "On the Shortness of Life" - Seneca
