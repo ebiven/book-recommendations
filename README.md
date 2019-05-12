@@ -23,6 +23,18 @@ If you'd like you can check out my complete reading list (including ratings) on
 * "Thanks for the Feedback: The Science and Art of Receiving Feedback Well" - Douglas Stone
 * "Thinking, Fast and Slow" - Daniel Kahneman
 
+## ...on productivity
+
+* "Deep Work: Rules for Focused Success in a Distracted World" - Cal Newport
+* "Digital Minimalism: Choosing a Focused Life in a Noisy World" - Cal Newport
+* "Drive: The Surprising Truth About What Motivates Us" - Daniel H. Pink
+* "The Effective Executive: The Definitive Guide to Getting the Right Things Done" - Peter F. Drucker
+* "Finish: Give Yourself the Gift of Done" - Jon Acuff
+* "Getting Things Done: The Art of Stress-Free Productivity" - David Allen
+* "The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results" - Gary Keller
+* "Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency" - Tom DeMarco
+* "When: The Scientific Secrets of Perfect Timing" - Daniel H. Pink
+
 ## ...on leadership
 
 * "Dare to Lead: Brave Work. Tough Conversations. Whole Hearts." - Brene Brown
