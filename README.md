@@ -22,9 +22,11 @@ If you'd like you can check out my complete reading list (including ratings) on
 * "On the Shortness of Life" - Seneca
 * "Thanks for the Feedback: The Science and Art of Receiving Feedback Well" - Douglas Stone
 * "Thinking, Fast and Slow" - Daniel Kahneman
+* "Thinking in Systems: A Primer" - Donella H. Meadows, Diana Wright
 
 ## ...on productivity
 
+* "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones" - James Clear
 * "Deep Work: Rules for Focused Success in a Distracted World" - Cal Newport
 * "Digital Minimalism: Choosing a Focused Life in a Noisy World" - Cal Newport
 * "Drive: The Surprising Truth About What Motivates Us" - Daniel H. Pink
@@ -78,6 +80,7 @@ If you'd like you can check out my complete reading list (including ratings) on
 ## ...other things
 
 * "21 Lessons for the 21st Century" - Yuval Noah Harari
+* "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones" - James Clear
 * "The Compass of Zen" - Seung Sahn
 * "Deep Work: Rules for Focused Success in a Distracted World" - Cal Newport
 * "My First Summer in the Sierra" - John Muir
