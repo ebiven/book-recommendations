@@ -68,6 +68,7 @@ If you'd like you can check out my complete reading list (including ratings) on
 * "The Effective Executive: The Definitive Guide to Getting the Right Things Done" - Peter F. Drucker
 * "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers" - Ben Horowitz
 * "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change" - Camille Fournier
+* "Nine Lies About Work: A Freethinking Leader’s Guide to the Real World" - Ashley Goodall, Marcus Buckingham
 * "Peopleware: Productive Projects and Teams" - Tom DeMarco
 * "Radical Candor: Be a Kickass Boss Without Losing Your Humanity" - Kim Malone Scott
 * "Team of Teams: New Rules of Engagement for a Complex World" - Stanley McChrystal
