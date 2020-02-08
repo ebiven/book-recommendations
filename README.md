@@ -45,6 +45,7 @@ If you'd like you can check out my complete reading list (including ratings) on
 * "Drive: The Surprising Truth About What Motivates Us" - Daniel H. Pink
 * "The Effective Executive: The Definitive Guide to Getting the Right Things Done" - Peter F. Drucker
 * "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers" - Ben Horowitz
+* "Leadership Strategy and Tactics: Field Manual" - Jocko Willink
 * "The Making of a Manager: What to Do When Everyone Looks to You" - Julie Zhuo
 * "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change" - Camille Fournier
 * "Peopleware: Productive Projects and Teams" - Tom DeMarco
