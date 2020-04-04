@@ -70,6 +70,7 @@ If you'd like you can check out my complete reading list (including ratings) on
 * "Bad Blood: Secrets and Lies in a Silicon Valley Startup" - John Carreyrou
 * "The Black Swan: The Impact of the Highly Improbable" - Nassim Nicholas Taleb
 * "The Effective Executive: The Definitive Guide to Getting the Right Things Done" - Peter F. Drucker
+* "Extreme Ownership: How U.S. Navy SEALs Lead and Win" - Jocko Willink
 * "The Halo Effect: ...and Eight Other Business Delusions that Deceive Managers" - Phillip M. Rosenzweig
 * "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers" - Ben Horowitz
 * "The Information: A History, a Theory, a Flood" - James Gleick
