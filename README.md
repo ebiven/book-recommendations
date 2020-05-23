@@ -85,6 +85,7 @@ If you'd like you can check out my complete reading list (including ratings) on
 
 * "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems" - Martin Kleppmann
 * "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change" - Camille Fournier
+* "Waltzing with Bears: Managing Risk on Software Projects" - Tom DeMarco, Timothy R. Lister
 
 ## ...other things
 
