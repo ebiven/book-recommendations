@@ -22,6 +22,7 @@ If you'd like you can check out my complete reading list (including ratings) on
 * "How Not to Be Wrong: The Power of Mathematical Thinking" - Jordan Ellenberg
 * "The Information: A History, a Theory, a Flood" - James Gleick
 * "On the Shortness of Life" - Seneca
+* "Risk Savvy: How to Make Good Decisions" - Gerd Gigerenzer
 * "Thanks for the Feedback: The Science and Art of Receiving Feedback Well" - Douglas Stone
 * "Thinking, Fast and Slow" - Daniel Kahneman
 * "Thinking in Systems: A Primer" - Donella H. Meadows, Diana Wright
@@ -89,6 +90,7 @@ If you'd like you can check out my complete reading list (including ratings) on
 
 ## ...other things
 
+* "1491: New Revelations of the Americas Before Columbus" - Charles C. Mann
 * "21 Lessons for the 21st Century" - Yuval Noah Harari
 * "A Guide to the Good Life: The Ancient Art of Stoic Joy" - William B. Irvine
 * "American Wolf" - Nate Blakeslee
