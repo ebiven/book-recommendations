@@ -99,6 +99,7 @@ If you'd like you can check out my complete reading list (including ratings) on
 * "Deep Work: Rules for Focused Success in a Distracted World" - Cal Newport
 * "My First Summer in the Sierra" - John Muir
 * "Homo Deus: A Brief History of Tomorrow" - Yuval Noah Harari
+* "How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers" - Sönke Ahrens
 * "On the Shortness of Life" - Seneca
 * "On Writing Well: The Classic Guide to Writing Nonfiction" - William Zinsser
 * "Sapiens: A Brief History of Humankind" - Yuval Noah Harari
